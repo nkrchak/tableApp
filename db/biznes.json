@@ -1,0 +1,12 @@
+let business =[
+    {
+        "name" : null,
+        "location" : null,
+        "zipcode" : null,
+        "type of food" : null,
+        "free" :[],
+        "discounted" : [],
+        "vegan" : null,
+        "vegetarian": null
+    }
+]
