@@ -1,0 +1,45 @@
+let users = {
+
+   "user": [{
+    "id": 1;
+    "username" : null;
+    "password" : null;
+    "firstname" : null;
+    "lastname" : null;
+    "dateofbirth" : null;
+    "phonenumber" : null;
+    "zipcode" : null;
+  },
+  {
+   "id": 2
+   "username" : null;
+   "password" : null;
+   "firstname" : null;
+   "lastname" : null;
+   "dateofbirth" : null;
+   "phonenumber" : null;
+   "zipcode" : null;
+ },
+ {
+  "id": 3;
+  "username" : null;
+  "password" : null;
+  "firstname" : null;
+  "lastname" : null;
+  "dateofbirth" : null;
+  "phonenumber" : null;
+  "zipcode" : null;
+},
+{
+ "id": 4;
+ "username" : null;
+ "password" : null;
+ "firstname" : null;
+ "lastname" : null;
+ "dateofbirth" : null;
+ "phonenumber" : null;
+ "zipcode" : null;
+}
+ ]
+ 
+}
