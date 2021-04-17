@@ -1,6 +1,8 @@
-let business =[
+{
+    "business" =[
     {
-        "name" : null,
+        id: 1
+    "name" : null,
         "location" : null,
         "zipcode" : null,
         "type of food" : null,
@@ -8,5 +10,17 @@ let business =[
         "discounted" : [],
         "vegan" : null,
         "vegetarian": null
-    }
+  }
+
+ id: 2
+    "name" : null,
+        "location" : null,
+        "zipcode" : null,
+        "type of food" : null,
+        "free" :[],
+        "discounted" : [],
+        "vegan" : null,
+        "vegetarian": null
+  }
 ]
+}
